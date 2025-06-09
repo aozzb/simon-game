@@ -39,7 +39,13 @@ Simon-game/
 
 ## 📷 Screenshots
 
-*(You can upload a screenshot and paste the image link here)*
+![Simon Game Home Screen](screenshots/ss_1.png)
+
+![Simon Game Level 4 Screen](screenshots/ss_2.png)
+
+![Simon Game Retry Screen](screenshots/ss_3.png)
+
+
 
 ## 🛠️ Technologies Used
 
@@ -47,6 +53,12 @@ Simon-game/
 - CSS
 - JavaScript
 - jQuery
+
+## 🙏 Credit
+
+This project was created while following [Angela Yu's Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).  
+The HTML and CSS were provided as part of the course — I implemented the JavaScript logic myself to learn how the game works.
+
 
 ## 📬 Contact
 
