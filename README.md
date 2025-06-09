@@ -27,7 +27,7 @@ A web-based version of the classic Simon Game built with HTML, CSS, and JavaScri
 ```plaintext
 Simon-game/
 ├── index.html
-├── style.css
+├── styles.css
 ├── game.js
 └── sounds/
     ├── red.mp3
